@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\Mark\Desktop\проги\0A Studio мои проги\String Reverse\Source.cpp(14,24): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  String Reverse.vcxproj -> C:\Users\Mark\Desktop\проги\0A Studio мои проги\String Reverse\x64\Debug\String Reverse.exe
